@@ -394,7 +394,8 @@ html {
   }
   #vol_hand
   {
-    margin-left: 13%;
+    display:block;
+    margin:0 auto;
   }
   #green-cont
   {
