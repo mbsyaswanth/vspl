@@ -20,7 +20,7 @@ function pageLoad(pageIdentify,sectionIdentifier){
              iFrameResize();
           }
         };
-        xhttp.open("GET",allPages[pageIdentify] , true);
+        xhttp.open("GET","pages/"+allPages[pageIdentify] , true);
         xhttp.send();
     }
     else
