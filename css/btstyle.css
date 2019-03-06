@@ -191,7 +191,7 @@ html {
   .foot{
     position: relative;
     background-color: #d8d7d3; 
-    background:linear-gradient(rgba(255,255,255,.92),rgba(255,255,255,0.48)), url(video/95.jpg);
+    background:linear-gradient(rgba(255,255,255,.92),rgba(255,255,255,0.48)), url(../video/95.jpg);
     /* background-repeat: no-repeat; */
     padding-top: 60px ;
   }
